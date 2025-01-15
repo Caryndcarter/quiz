@@ -24,6 +24,10 @@ jobs:
         - name: Run Build
           run: npm run build
 
+        # Run seed
+        - name: Run Seed
+          run: npm run seed
+
         # Run deploy    
         - name: Deploy
           if: github.ref == 'refs/heads/main'
