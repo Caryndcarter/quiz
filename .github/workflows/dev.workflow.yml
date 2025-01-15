@@ -30,12 +30,6 @@ jobs:
       - name: Run Build
         run: npm run build
 
-      - name: Run Seed
-        run: npm run seed 
-
-      - name: Start the app
-        run: npm start && echo "App started successfully"
-
       # Run tests
       - name: Run Tests
         run: npm run test
