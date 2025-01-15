@@ -3,9 +3,11 @@
 
 ## Description
 
-This application was created in order to offer learners of Python a quiz to test their knowledge of Python syntax.  It was created using Node.js, JavaScript, React as the front-end framework, with MongoDB as the database.  Users are given random mutiple choice questions from a list and their score tallied at the end.  
+This application was created in order to offer learners of Python a quiz to test their knowledge of Python syntax.  It was created using the MERN stack: Node.js, JavaScript, React as the front-end framework, with MongoDB as the database.  Users are given random mutiple choice questions from a list and their score tallied at the end.  
 
-The application uses GithubActions to run Cypress Tests on the "develop branch" upon a pull request to develop.  Another GithubAction deploys the application to Render when a push is made to the "main" branch.     
+The application uses GithubActions to run Cypress Tests on the "develop branch" upon a pull request to develop.  Another GithubAction deploys the application to Render when a push is made to the "main" branch. 
+
+Adding some readme text. 
 
 ## Table of Contents
 - [Installation](#installation)
