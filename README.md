@@ -8,6 +8,7 @@ This application was created in order to offer learners of Python a quiz to test
 The application uses GithubActions to run Cypress Tests on the "develop branch" upon a pull request to develop.  Another GithubAction deploys the application to Render when a push is made to the "main" branch. 
 
 Adding some readme text. 
+Adding some more readme text. 
 
 ## Table of Contents
 - [Installation](#installation)
