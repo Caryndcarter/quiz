@@ -10,6 +10,7 @@ The application uses GithubActions to run Cypress Tests on the "develop branch" 
 Adding some readme text. 
 Adding some more readme text. 
 Adding even more readme text. 
+adding some main text. 
 
 ## Table of Contents
 - [Installation](#installation)
