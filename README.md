@@ -27,6 +27,8 @@ Either access the application on Render: https://quiz-75t3.onrender.com
 Or run `` npm run start`` and access it on localhost:3001.  
 
 When you start the quiz by clicking "start," you can proceed by answering the questions until you get your score at the end, 10 questions later.  
+
+Enjoy testing your Python knowledge! 
  
 
 ![Demo](./assets/output.png)
